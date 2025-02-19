@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 35px;
+    margin: 2px auto;
+}
+p{
+    text-align: center;
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 200%;
+    margin: 2px auto;
+    max-width: 25%;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 800px;
+    height: 800px;
+    border-radius: 10%;
+}
+
+.ubicar_titulo {
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 200%;
+    max-width: 350px;
+    margin: 2px auto;
+    border: 2px solid black;
+}
+
+.ubicar_titulo a {
+color: white;
+text-decoration:line-through
+}
+
+body{
+    background-color:bisque
+}
+
+button{
+    background-color: aquamarine;
+    font-size: 120%;
+}
